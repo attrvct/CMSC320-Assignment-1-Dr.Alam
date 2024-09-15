@@ -1,10 +1,21 @@
-Q2: What field could data science be applied to? 
+
+Q1: Why might we consider using git?
+
+Answer: We consider using Git because it helps manage code and data changes
+when working with a team. It also helps manage and track changes in your code
+as a developer. You are able to go back and see earlier versions of your code
+if necessary in case something goes wrong or if you just want to see what
+your code looked like at a certain point in time. You can also develop
+simultaneously on different branches and easily collaborate with other 
+developers when using Git.
+
+Q2: What field could data science be applied to?
 Give an Example and how it might help
 
 Answer: Data Science can be applied to almost any field that details with
 large amounts of data. An example of such a field is healthcare. In healthcare,
 data science can be used to analyze medical records and patient data to
-improve patient outcomes. For instance, by analyzing medical records of 
+improve patient outcomes. For instance, by analyzing medical records of
 patients, scientists can build predictive models to aid doctors in identifying
 patients who are at high risk for certain conditions such as Alzheimer's or
 diabetes.
