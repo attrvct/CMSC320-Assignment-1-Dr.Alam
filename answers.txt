@@ -31,3 +31,12 @@ of the branch on top of another branch, creating a linear commit history.
 Merging is generally a safer option because it preserves the entire history
 of your repository.
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to enhance my ability to analyze large datasets effectively and
+extract meaningful insights. Improving my skills in tools like Python with 
+libraries such as Pandas would help me communicate these insights more clearly.
+I also hope to strengthen my statistical knowledge, especially in 
+understanding how to interpret data and measure the effectiveness of models.
+Since this course also includes a team project, I would also like to improve
+my team working skills for the collaborative project.
