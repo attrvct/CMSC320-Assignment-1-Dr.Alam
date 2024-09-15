@@ -19,3 +19,15 @@ improve patient outcomes. For instance, by analyzing medical records of
 patients, scientists can build predictive models to aid doctors in identifying
 patients who are at high risk for certain conditions such as Alzheimer's or
 diabetes.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: The difference between merging and rebasing on Git has to do with
+how they combine changes from different branches into one and how they handle
+the project repository. Merging combines the work from different branches while
+maintaining the existing commit history of each branch while rebasing is a way
+of integrating changes from one branch into another by replaying the commits
+of the branch on top of another branch, creating a linear commit history.
+Merging is generally a safer option because it preserves the entire history
+of your repository.
+
