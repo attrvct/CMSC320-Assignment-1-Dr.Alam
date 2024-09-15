@@ -1,0 +1,9 @@
+Q1: Why might be consider using git?
+
+Answer: We consider using Git because it helps manage code and data changes
+when working with a team. It also helps manage and track changes in your code
+as a developer. You are able to go back and see earlier versions of your code
+if necessary in case something goes wrong or if you just want to see what
+your code looked like at a certain point in time. You can also develop
+simultaneously on different branches and easily collaborate with other 
+developers when using Git.
